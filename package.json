@@ -35,7 +35,7 @@
     "react-select": "^3.0.4",
     "react-spinners": "^0.5.13",
     "react-to-print": "^2.3.0",
-    "recharts": "^1.6.2",
+    "recharts": "^2.1.14",
     "redux": "^4.0.4",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
